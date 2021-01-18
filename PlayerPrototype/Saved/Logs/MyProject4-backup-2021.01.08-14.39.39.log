@@ -1,0 +1,1527 @@
+﻿Log file open, 12/20/20 03:37:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.295941
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.150s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="LumiArK" -epicuserid=fb7217977e7340c2ad6382fc44e4da6d -epiclocale=en
+LogInit: Base Directory: D:/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.12.20-03.37.04:250][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.20-03.37.04:250][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.20-03.37.04:262][  0]LogHAL: Display: Platform has ~ 16 GB [17108672512 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.20-03.37.04:262][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2020.12.20-03.37.04:262][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.20-03.37.04:262][  0]LogInit: Computer: THOMAS-PC
+[2020.12.20-03.37.04:262][  0]LogInit: User: Lumi
+[2020.12.20-03.37.04:262][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.20-03.37.04:262][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.20-03.37.04:263][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.12.20-03.37.04:263][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.20-03.37.04:263][  0]LogMemory: Process Physical Memory: 100.89 MB used, 100.89 MB peak
+[2020.12.20-03.37.04:263][  0]LogMemory: Process Virtual Memory: 90.85 MB used, 90.85 MB peak
+[2020.12.20-03.37.04:263][  0]LogMemory: Physical Memory: 9203.36 MB used,  7112.74 MB free, 16316.10 MB total
+[2020.12.20-03.37.04:263][  0]LogMemory: Virtual Memory: 4628.49 MB used,  7112.74 MB free, 134217728.00 MB total
+[2020.12.20-03.37.04:285][  0]LogInit: Using OS detected language (en-GB).
+[2020.12.20-03.37.04:285][  0]LogInit: Using OS detected locale (en-GB).
+[2020.12.20-03.37.04:286][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.12.20-03.37.04:647][  0]LogStreaming: Display: Took  0.363s to InitEngineTextLocalization.
+[2020.12.20-03.37.04:648][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.20-03.37.04:695][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.20-03.37.04:695][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.20-03.37.04:981][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.20-03.37.04:981][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.20-03.37.05:071][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.12.20-03.37.05:071][  0]LogD3D11RHI:       6052/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.12.20-03.37.05:073][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.20-03.37.05:073][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.20-03.37.05:073][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.20-03.37.05:084][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.20-03.37.05:084][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.20-03.37.05:084][  0]LogWindows: EnumDisplayDevices:
+[2020.12.20-03.37.05:084][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.12.20-03.37.05:085][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.12.20-03.37.05:085][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.12.20-03.37.05:085][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.12.20-03.37.05:085][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.12.20-03.37.05:085][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.12.20-03.37.05:085][  0]LogD3D11RHI:   Driver Version: 446.14 (internal:26.21.14.4614, unified:446.14)
+[2020.12.20-03.37.05:085][  0]LogD3D11RHI:      Driver Date: 5-15-2020
+[2020.12.20-03.37.05:085][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.12.20-03.37.05:140][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.20-03.37.05:151][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.20-03.37.05:154][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../Thomas/Unreal Projects/MyProject4 4.20/Intermediate/Shaders/WorkingDirectory/17764/).
+[2020.12.20-03.37.05:154][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Thomas/AppData/Local/Temp/UnrealShaderWorkingDir/1A58E79947B2BCA7579398AADD131425/'.
+[2020.12.20-03.37.05:419][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.12.20-03.37.05:430][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.12.20-03.37.05:441][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.12.20-03.37.05:454][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.12.20-03.37.05:466][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.12.20-03.37.05:478][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.12.20-03.37.05:490][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.12.20-03.37.05:502][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.12.20-03.37.05:508][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:578][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.12.20-03.37.05:579][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.12.20-03.37.05:639][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.12.20-03.37.05:639][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.12.20-03.37.05:661][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.12.20-03.37.05:661][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.12.20-03.37.05:674][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.12.20-03.37.05:685][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.12.20-03.37.05:696][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.12.20-03.37.05:708][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.12.20-03.37.05:717][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.12.20-03.37.05:717][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.20-03.37.05:770][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.20-03.37.05:770][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.20-03.37.05:770][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.20-03.37.06:479][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.20-03.37.06:534][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Thomas/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.12.20-03.37.06:534][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Thomas/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2020.12.20-03.37.06:535][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Thomas/Unreal Projects/MyProject4 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.20-03.37.06:535][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.20-03.37.06:535][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Thomas/Unreal Projects/MyProject4 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.20-03.37.06:535][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.20-03.37.06:549][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.20-03.37.06:561][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Thomas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.20-03.37.06:561][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.20-03.37.06:561][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.20-03.37.06:581][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.20-03.37.06:583][  0]LogSlate: Using FreeType 2.6.0
+[2020.12.20-03.37.06:584][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.20-03.37.06:665][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2020.12.20-03.37.06:978][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.20-03.37.07:112][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.12.20-03.37.07:116][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.12.20-03.37.07:116][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.20-03.37.07:116][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.20-03.37.07:116][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.12.20-03.37.07:135][  0]LogNetVersion: MyProject4 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3245095822)
+[2020.12.20-03.37.07:634][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.107841 seconds
+[2020.12.20-03.37.07:640][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2020.12.20-03.37.07:640][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2020.12.20-03.37.07:640][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.20-03.37.08:519][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.20-03.37.08:533][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.20-03.37.08:667][  0]SourceControl: Source control is disabled
+[2020.12.20-03.37.08:667][  0]SourceControl: Source control is disabled
+[2020.12.20-03.37.08:668][  0]SourceControl: Source control is disabled
+[2020.12.20-03.37.08:669][  0]SourceControl: Source control is disabled
+[2020.12.20-03.37.08:840][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.20-03.37.08:953][  0]LogOcInput: OculusInput pre-init called
+[2020.12.20-03.37.09:009][  0]LogEngine: Initializing Engine...
+[2020.12.20-03.37.09:010][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.20-03.37.09:011][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.12.20-03.37.09:011][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.12.20-03.37.09:012][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.12.20-03.37.09:012][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.12.20-03.37.09:210][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.20-03.37.09:223][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.20-03.37.09:256][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.12.20-03.37.09:268][  0]LogInit: FAudioDevice initialized.
+[2020.12.20-03.37.09:268][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.20-03.37.09:346][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Thomas/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.12.20-03.37.09:354][  0]LogInit: Texture streaming: Enabled
+[2020.12.20-03.37.09:368][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.20-03.37.09:386][  0]LogInit: Transaction tracking system initialized
+[2020.12.20-03.37.09:410][  0]BlueprintLog: New page: Editor Load
+[2020.12.20-03.37.09:496][  0]LocalizationService: Localization service is disabled
+[2020.12.20-03.37.09:735][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.20-03.37.09:735][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.20-03.37.09:735][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.12.20-03.37.09:735][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.12.20-03.37.09:735][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.12.20-03.37.09:735][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.12.20-03.37.09:735][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.12.20-03.37.09:867][  0]LogFileCache: Scanning file cache for directory 'D:/Thomas/Unreal Projects/MyProject4 4.20/Content/' took 0.02s
+[2020.12.20-03.37.09:867][  0]SourceControl: Source control is disabled
+[2020.12.20-03.37.09:868][  0]Cmd: MAP LOAD FILE="../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.20-03.37.09:868][  0]LightingResults: New page: Lighting Build
+[2020.12.20-03.37.09:871][  0]MapCheck: New page: Map Check
+[2020.12.20-03.37.09:871][  0]LightingResults: New page: Lighting Build
+[2020.12.20-03.37.10:189][  0]LogLinker: Warning: Asset '../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/Materials/PP_Outliner_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.12.20-03.37.10:192][  0]LogLinker: Warning: Asset '../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/Materials/MF_ConvolveTexture.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.12.20-03.37.10:193][  0]LogLinker: Warning: Asset '../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/Materials/MF_ExtractDepth.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.12.20-03.37.10:194][  0]LogLinker: Warning: Asset '../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/Materials/MF_SampleSceneTextureNeighbourUVs.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.12.20-03.37.10:466][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.20-03.37.10:482][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.20-03.37.10:502][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.20-03.37.10:561][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.976ms to complete.
+[2020.12.20-03.37.10:561][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.693
+[2020.12.20-03.37.10:733][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.20-03.37.10:745][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.20-03.37.10:753][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.20-03.37.10:766][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.20-03.37.10:772][  0]LogCollectionManager: Loaded 0 collections in 0.001498 seconds
+[2020.12.20-03.37.10:815][  0]LogFileCache: Scanning file cache for directory 'D:/Thomas/Unreal Projects/MyProject4 4.20/Saved/Collections/' took 0.01s
+[2020.12.20-03.37.10:815][  0]LogFileCache: Scanning file cache for directory 'D:/Thomas/Unreal Projects/MyProject4 4.20/Content/Developers/Lumi/Collections/' took 0.01s
+[2020.12.20-03.37.10:815][  0]LogFileCache: Scanning file cache for directory 'D:/Thomas/Unreal Projects/MyProject4 4.20/Content/Collections/' took 0.01s
+[2020.12.20-03.37.10:815][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.12.20-03.37.10:826][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2572 classes and 603 folders.
+[2020.12.20-03.37.10:832][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.20-03.37.10:884][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.20-03.37.10:889][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.12.20-03.37.10:924][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.20-03.37.10:926][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.20-03.37.10:932][  0]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.20-03.37.11:005][  0]LogRenderer: Reallocating scene render targets to support 1148x776 Format 10 NumSamples 1 (Frame:1).
+[2020.12.20-03.37.11:146][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.20-03.37.11:146][  0]LogLoad: (Engine Initialization) Total time: 8.82 seconds
+[2020.12.20-03.37.11:146][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.20-03.37.11:186][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.20-03.37.11:236][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.20-03.37.11:258][  1]LogAssetRegistry: Asset discovery search completed in 4.6149 seconds
+[2020.12.20-03.37.11:260][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.12.20-03.37.11:261][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2020.12.20-03.37.15:057][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.37.21:553][914]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.20-03.37.21:563][914]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../DEsktop/custom textures pog/carpetLow.png)
+[2020.12.20-03.37.21:568][914]LogTexture: Display: Building textures: carpetLow (AutoDXT, 128X128)
+[2020.12.20-03.37.22:494][ 11]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/FirstPerson/Textures/carpetLow.carpetLow
+[2020.12.20-03.37.22:499][ 11]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.12.20-03.37.28:602][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Textures/carpetLow" FILE="../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/FirstPerson/Textures/carpetLow.uasset" SILENT=true
+[2020.12.20-03.37.28:618][696]LogSavePackage: Moving '../../../../Thomas/Unreal Projects/MyProject4 4.20/Saved/carpetLowAD5BE49E490C56F7719B25B8CA24EA7B.tmp' to '../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/FirstPerson/Textures/carpetLow.uasset'
+[2020.12.20-03.37.29:705][818]LogSlate: Window 'carpetLow' being destroyed
+[2020.12.20-03.37.29:709][818]LogSlate: Window 'carpetLow' being destroyed
+[2020.12.20-03.37.42:751][319]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/FirstPerson/Materials/M_FloorTest.M_FloorTest
+[2020.12.20-03.37.56:720][599]LogSlate: Window 'Save Asset As' being destroyed
+[2020.12.20-03.37.59:454][599]LogSlate: Window 'Message' being destroyed
+[2020.12.20-03.38.03:647][858]LogSlate: Window 'Save Asset As' being destroyed
+[2020.12.20-03.38.08:216][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Materials/M_FloorTest" FILE="../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/FirstPerson/Materials/M_FloorTest.uasset" SILENT=true
+[2020.12.20-03.38.08:241][285]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FloorTest, compiling. 
+[2020.12.20-03.38.08:719][285]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.12.20-03.38.08:720][285]TextureStreamingBuild: Display: Compiling optional shaders took 0.484 seconds.
+[2020.12.20-03.38.08:761][285]LogSavePackage: Moving '../../../../Thomas/Unreal Projects/MyProject4 4.20/Saved/M_FloorTest5A2AC8EF47C2F1182A6A4EAAB39DD3C0.tmp' to '../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/FirstPerson/Materials/M_FloorTest.uasset'
+[2020.12.20-03.38.15:808][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.38.38:949][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.39.29:611][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.39.34:607][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.39.47:626][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.39.48:982][453]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush7)
+[2020.12.20-03.39.51:794][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.39.52:375][827]LogEditorActor: Deleted Actor: Brush
+[2020.12.20-03.39.52:403][827]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.12.20-03.40.01:050][720]Cmd: DELETE
+[2020.12.20-03.40.01:050][720]Cmd: ACTOR DELETE
+[2020.12.20-03.40.01:053][720]LogEditorActor: Deleted Actor: Brush
+[2020.12.20-03.40.01:076][720]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.12.20-03.40.04:569][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.40.07:569][433]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.12.20-03.40.14:564][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.41.04:240][428]Cmd: TRANSACTION UNDO
+[2020.12.20-03.41.04:240][428]LogEditorTransaction: Undo Move Actors
+[2020.12.20-03.41.04:251][428]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LinearStairBrush.BrushComponent0) Component already registered.
+[2020.12.20-03.41.04:252][428]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.12.20-03.41.04:252][428]LogGeometryMode: Warning: Unable to resolve BoxBrush3_2 Brush in new BSP, see above
+[2020.12.20-03.41.04:252][428]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.20-03.41.04:405][433]Cmd: TRANSACTION UNDO
+[2020.12.20-03.41.04:405][433]LogEditorTransaction: Undo Modifier [Edit]
+[2020.12.20-03.41.04:548][438]Cmd: TRANSACTION UNDO
+[2020.12.20-03.41.04:548][438]LogEditorTransaction: Undo Move Actors
+[2020.12.20-03.41.04:555][438]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LinearStairBrush.BrushComponent0) Component already registered.
+[2020.12.20-03.41.04:710][443]Cmd: TRANSACTION UNDO
+[2020.12.20-03.41.04:711][443]LogEditorTransaction: Undo Move Actors
+[2020.12.20-03.41.04:718][443]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LinearStairBrush.BrushComponent0) Component already registered.
+[2020.12.20-03.41.04:976][462]Cmd: TRANSACTION UNDO
+[2020.12.20-03.41.04:976][462]LogEditorTransaction: Undo Scale Actors
+[2020.12.20-03.41.04:984][462]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LinearStairBrush.BrushComponent0) Component already registered.
+[2020.12.20-03.41.05:391][503]Cmd: TRANSACTION UNDO
+[2020.12.20-03.41.05:391][503]LogEditorTransaction: Undo Scale Actors
+[2020.12.20-03.41.05:400][503]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LinearStairBrush.BrushComponent0) Component already registered.
+[2020.12.20-03.41.05:684][529]Cmd: TRANSACTION UNDO
+[2020.12.20-03.41.05:684][529]LogEditorTransaction: Undo Scale Actors
+[2020.12.20-03.41.05:692][529]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LinearStairBrush.BrushComponent0) Component already registered.
+[2020.12.20-03.41.05:946][551]Cmd: TRANSACTION UNDO
+[2020.12.20-03.41.05:946][551]LogEditorTransaction: Undo Move Actors
+[2020.12.20-03.41.05:954][551]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LinearStairBrush.BrushComponent0) Component already registered.
+[2020.12.20-03.41.06:397][596]Cmd: TRANSACTION UNDO
+[2020.12.20-03.41.06:397][596]LogEditorTransaction: Undo Move Actors
+[2020.12.20-03.41.06:404][596]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LinearStairBrush.BrushComponent0) Component already registered.
+[2020.12.20-03.41.21:315][ 90]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush3)
+[2020.12.20-03.41.24:681][413]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush3)
+[2020.12.20-03.41.36:105][568]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush3)
+[2020.12.20-03.41.55:977][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.42.04:745][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.42.11:351][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.20-03.42.16:407][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.42.18:875][ 25]Cmd: EDIT COPY
+[2020.12.20-03.42.19:183][ 59]Cmd: EDIT PASTE
+[2020.12.20-03.42.23:298][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.42.28:103][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.42.45:152][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.42.46:694][819]Cmd: EDCALLBACK SURFPROPS
+[2020.12.20-03.42.50:597][240]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush7)
+[2020.12.20-03.42.55:519][704]Cmd: TRANSACTION UNDO
+[2020.12.20-03.42.55:519][704]LogEditorTransaction: Undo Move Actors
+[2020.12.20-03.42.55:525][704]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2020.12.20-03.42.55:526][704]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2020.12.20-03.42.55:527][704]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush3_2.BrushComponent0) Component already registered.
+[2020.12.20-03.42.55:527][704]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush5_18.BrushComponent0) Component already registered.
+[2020.12.20-03.42.57:472][862]Cmd: EDCALLBACK SURFPROPS
+[2020.12.20-03.43.02:107][361]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush7)
+[2020.12.20-03.43.05:422][671]Cmd: TRANSACTION UNDO
+[2020.12.20-03.43.05:422][671]LogEditorTransaction: Undo Move Actors
+[2020.12.20-03.43.05:430][671]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2020.12.20-03.43.05:432][671]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2020.12.20-03.43.05:433][671]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush3_2.BrushComponent0) Component already registered.
+[2020.12.20-03.43.05:433][671]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush5_18.BrushComponent0) Component already registered.
+[2020.12.20-03.43.13:507][371]Cmd: EDCALLBACK SURFPROPS
+[2020.12.20-03.43.43:003][495]LogGeometryMode: Warning: Unable to find BoxBrush8 Brush(s) in new BSP
+[2020.12.20-03.43.43:003][495]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.20-03.43.50:712][219]Cmd: DELETE
+[2020.12.20-03.43.50:726][219]Cmd: ACTOR DELETE
+[2020.12.20-03.43.50:731][219]LogEditorActor: Deleted Actor: Brush
+[2020.12.20-03.43.50:755][219]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.12.20-03.43.51:947][353]Cmd: TRANSACTION UNDO
+[2020.12.20-03.43.51:947][353]LogEditorTransaction: Undo Delete Actors
+[2020.12.20-03.43.51:954][353]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2020.12.20-03.43.51:955][353]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2020.12.20-03.44.01:452][205]Cmd: DELETE
+[2020.12.20-03.44.01:467][205]Cmd: ACTOR DELETE
+[2020.12.20-03.44.01:473][205]LogEditorActor: Deleted Actor: Brush
+[2020.12.20-03.44.01:498][205]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.12.20-03.44.08:922][ 62]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.08:922][ 62]LogEditorTransaction: Undo Delete Actors
+[2020.12.20-03.44.08:929][ 62]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2020.12.20-03.44.08:929][ 62]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2020.12.20-03.44.16:038][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.44.29:388][  0]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.29:388][  0]LogEditorTransaction: Undo Modifier [Optimize]
+[2020.12.20-03.44.29:396][  0]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LinearStairBrush.BrushComponent0) Component already registered.
+[2020.12.20-03.44.29:397][  0]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2020.12.20-03.44.29:397][  0]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush3_2.BrushComponent0) Component already registered.
+[2020.12.20-03.44.43:745][417]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.43:745][417]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.44.44:133][444]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.44:133][444]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.44.44:655][497]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.44:655][497]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.44.45:009][531]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.45:009][531]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.44.45:290][557]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.45:290][557]LogEditorTransaction: Undo Modifier [Delete]
+[2020.12.20-03.44.45:296][557]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2020.12.20-03.44.45:297][557]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2020.12.20-03.44.45:597][583]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.45:597][583]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.44.45:861][606]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.45:862][606]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.44.46:051][621]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.46:051][621]LogEditorTransaction: Undo Modifier [Delete]
+[2020.12.20-03.44.46:059][621]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2020.12.20-03.44.46:060][621]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2020.12.20-03.44.46:239][632]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.46:239][632]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.44.46:424][645]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.46:424][645]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.44.46:915][697]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.46:915][697]LogEditorTransaction: Undo Move Actors
+[2020.12.20-03.44.46:923][697]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2020.12.20-03.44.46:925][697]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2020.12.20-03.44.46:925][697]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush3_2.BrushComponent0) Component already registered.
+[2020.12.20-03.44.46:925][697]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush5_18.BrushComponent0) Component already registered.
+[2020.12.20-03.44.46:926][697]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.12.20-03.44.46:927][697]LogGeometryMode: Warning: Unable to resolve BoxBrush7_4 Brush in new BSP, see above
+[2020.12.20-03.44.46:927][697]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.20-03.44.47:150][713]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.47:150][713]LogEditorTransaction: Undo Modifier [Edit]
+[2020.12.20-03.44.47:371][731]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.47:371][731]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.44.47:611][751]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.47:611][751]LogEditorTransaction: Undo Select Surface
+[2020.12.20-03.44.47:801][766]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.47:801][766]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.44.47:994][781]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.47:994][781]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.44.48:179][795]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.48:179][795]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.44.48:344][807]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.48:344][807]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.44.48:506][819]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.48:506][819]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2020.12.20-03.44.48:720][836]Cmd: TRANSACTION UNDO
+[2020.12.20-03.44.48:720][836]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.44.49:883][962]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.49:883][962]LogEditorTransaction: Redo Select Brush Surface
+[2020.12.20-03.44.50:047][972]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.50:047][972]LogEditorTransaction: Redo Clicking on Actors (double-click)
+[2020.12.20-03.44.50:189][981]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.50:189][981]LogEditorTransaction: Redo Select Brush Surface
+[2020.12.20-03.44.50:365][993]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.50:365][993]LogEditorTransaction: Redo Select Brush Surface
+[2020.12.20-03.44.50:527][  4]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.50:527][  4]LogEditorTransaction: Redo Select Brush Surface
+[2020.12.20-03.44.50:703][ 16]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.50:703][ 16]LogEditorTransaction: Redo Select Brush Surface
+[2020.12.20-03.44.50:886][ 29]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.50:886][ 29]LogEditorTransaction: Redo Select Surface
+[2020.12.20-03.44.51:069][ 42]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.51:070][ 42]LogEditorTransaction: Redo Select Brush Surface
+[2020.12.20-03.44.51:265][ 57]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.51:265][ 57]LogEditorTransaction: Redo Modifier [Edit]
+[2020.12.20-03.44.51:459][ 73]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.51:459][ 73]LogEditorTransaction: Redo Move Actors
+[2020.12.20-03.44.51:468][ 73]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.12.20-03.44.51:468][ 73]LogGeometryMode: Warning: Unable to resolve BoxBrush7_4 Brush in new BSP, see above
+[2020.12.20-03.44.51:468][ 73]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.20-03.44.51:664][ 87]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.51:665][ 87]LogEditorTransaction: Redo Select Brush Surface
+[2020.12.20-03.44.51:667][ 87]LogGeometryMode: Warning: Unable to find BoxBrush8 Brush(s) in new BSP
+[2020.12.20-03.44.51:667][ 87]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.20-03.44.51:867][102]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.51:867][102]LogEditorTransaction: Redo Select Brush Surface
+[2020.12.20-03.44.52:116][124]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.52:116][124]LogEditorTransaction: Redo Modifier [Delete]
+[2020.12.20-03.44.52:312][137]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.52:312][137]LogEditorTransaction: Redo Select Brush Surface
+[2020.12.20-03.44.52:513][153]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.52:513][153]LogEditorTransaction: Redo Select Brush Surface
+[2020.12.20-03.44.52:706][169]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.52:706][169]LogEditorTransaction: Redo Modifier [Delete]
+[2020.12.20-03.44.52:889][182]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.52:889][182]LogEditorTransaction: Redo Select Brush Surface
+[2020.12.20-03.44.53:099][200]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.53:099][200]LogEditorTransaction: Redo Select Brush Surface
+[2020.12.20-03.44.53:289][215]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.53:289][215]LogEditorTransaction: Redo Select Brush Surface
+[2020.12.20-03.44.53:494][233]Cmd: TRANSACTION REDO
+[2020.12.20-03.44.53:494][233]LogEditorTransaction: Redo Select Brush Surface
+[2020.12.20-03.44.55:391][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.45.08:296][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.45.08:362][784]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2020.12.20-03.45.08:362][784]LogGeometryMode: Warning: Unable to resolve BoxBrush8 Brush in new BSP, see above
+[2020.12.20-03.45.08:362][784]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.20-03.45.14:219][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.45.14:288][450]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2020.12.20-03.45.14:288][450]LogGeometryMode: Warning: Unable to resolve BoxBrush8 Brush in new BSP, see above
+[2020.12.20-03.45.14:288][450]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.20-03.45.25:949][653]Cmd: TRANSACTION UNDO
+[2020.12.20-03.45.25:949][653]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.45.26:131][665]Cmd: TRANSACTION UNDO
+[2020.12.20-03.45.26:131][665]LogEditorTransaction: Undo Move Actors
+[2020.12.20-03.45.26:389][680]Cmd: TRANSACTION UNDO
+[2020.12.20-03.45.26:389][680]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.45.26:987][743]Cmd: TRANSACTION UNDO
+[2020.12.20-03.45.26:987][743]LogEditorTransaction: Undo Move Actors
+[2020.12.20-03.45.26:995][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_112, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.12.20-03.45.26:995][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_112, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.12.20-03.45.26:995][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_112, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.12.20-03.45.26:995][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_112, Buffer: 0, Buffer Size: 0, Element: 3
+[2020.12.20-03.45.26:995][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_112, Buffer: 0, Buffer Size: 0, Element: 4
+[2020.12.20-03.45.26:995][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_112, Buffer: 0, Buffer Size: 0, Element: 5
+[2020.12.20-03.45.26:995][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_112, Buffer: 0, Buffer Size: 0, Element: 6
+[2020.12.20-03.45.26:995][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_112, Buffer: 0, Buffer Size: 0, Element: 7
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_112, Buffer: 0, Buffer Size: 0, Element: 8
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_112, Buffer: 0, Buffer Size: 0, Element: 9
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_112, Buffer: 0, Buffer Size: 0, Element: 10
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_112, Buffer: 0, Buffer Size: 0, Element: 11
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_112, Buffer: 0, Buffer Size: 0, Element: 12
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_112' invalid (634 verts, 0 indices).
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_112.BodySetup_0 when we are unable to.
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 3
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 4
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 5
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 6
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 7
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 8
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 9
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 10
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 11
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 12
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 13
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 14
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 15
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 16
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 17
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 18
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 19
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 20
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 21
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 22
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 23
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 24
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 25
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 26
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 27
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 28
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 29
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 30
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 31
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 32
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 33
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 34
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 35
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 36
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 37
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 38
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 39
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 40
+[2020.12.20-03.45.26:996][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 41
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 42
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 43
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 44
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 45
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 46
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 47
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 48
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 49
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 50
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 51
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 52
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 53
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 54
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 55
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 56
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 57
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 58
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 59
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 60
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 61
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 62
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 63
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 64
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 65
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 66
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 67
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 68
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 69
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 70
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 71
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113, Buffer: 0, Buffer Size: 0, Element: 72
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113' invalid (634 verts, 0 indices).
+[2020.12.20-03.45.26:997][743]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_113.BodySetup_0 when we are unable to.
+[2020.12.20-03.45.27:868][837]Cmd: TRANSACTION UNDO
+[2020.12.20-03.45.27:868][837]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.45.29:216][989]Cmd: TRANSACTION UNDO
+[2020.12.20-03.45.29:216][989]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2020.12.20-03.45.30:432][122]Cmd: TRANSACTION UNDO
+[2020.12.20-03.45.30:432][122]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2020.12.20-03.45.31:584][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.45.36:565][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.45.42:720][456]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.45.47:692][992]Cmd: TRANSACTION UNDO
+[2020.12.20-03.45.47:692][992]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2020.12.20-03.45.49:180][143]Cmd: TRANSACTION UNDO
+[2020.12.20-03.45.49:180][143]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2020.12.20-03.45.49:640][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.45.59:778][310]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.46.07:985][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.46.08:044][140]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2020.12.20-03.46.11:679][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.46.11:746][567]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2020.12.20-03.46.14:063][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.46.14:113][819]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2020.12.20-03.46.16:146][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.46.16:221][ 45]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2020.12.20-03.46.37:858][216]LogGeometryMode: Warning: Unable to find BoxBrush8 Brush(s) in new BSP
+[2020.12.20-03.46.37:858][216]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.20-03.46.44:612][835]Cmd: TRANSACTION UNDO
+[2020.12.20-03.46.44:612][835]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2020.12.20-03.46.44:801][847]Cmd: TRANSACTION UNDO
+[2020.12.20-03.46.44:801][847]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.20-03.46.51:412][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.46.57:491][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.47.03:940][705]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.47.14:531][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.47.17:154][ 17]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.12.20-03.47.24:435][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.47.25:831][826]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush11)
+[2020.12.20-03.47.34:359][654]LogGeometryMode: Warning: Unable to find LinearStairBrush Brush(s) in new BSP
+[2020.12.20-03.47.34:359][654]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.20-03.47.34:449][656]LogEditorViewport: Clicking on Actor (double click): Brush (Linear Stair Brush)
+[2020.12.20-03.47.35:303][719]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush11)
+[2020.12.20-03.48.16:458][ 96]LogGeometryMode: Warning: Unable to find LinearStairBrush Brush(s) in new BSP
+[2020.12.20-03.48.16:458][ 96]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.20-03.48.19:359][419]LogGeometryMode: Warning: Unable to find LinearStairBrush Brush(s) in new BSP
+[2020.12.20-03.48.19:359][419]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.20-03.48.22:377][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.48.24:013][940]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.48.31:128][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.48.31:195][742]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.12.20-03.48.31:347][760]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.12.20-03.48.33:281][985]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2020.12.20-03.48.33:413][  0]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2020.12.20-03.48.44:762][326]Cmd: POLY TEXSCALE  UU=2.000000 VV=2.000000
+[2020.12.20-03.48.48:198][726]Cmd: TRANSACTION UNDO
+[2020.12.20-03.48.48:198][726]LogEditorTransaction: Undo Move Actors
+[2020.12.20-03.48.48:206][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_142, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.12.20-03.48.48:206][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_142, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.12.20-03.48.48:206][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_142, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.12.20-03.48.48:206][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_142, Buffer: 0, Buffer Size: 0, Element: 3
+[2020.12.20-03.48.48:206][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_142, Buffer: 0, Buffer Size: 0, Element: 4
+[2020.12.20-03.48.48:206][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_142, Buffer: 0, Buffer Size: 0, Element: 5
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_142, Buffer: 0, Buffer Size: 0, Element: 6
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_142, Buffer: 0, Buffer Size: 0, Element: 7
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_142, Buffer: 0, Buffer Size: 0, Element: 8
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_142, Buffer: 0, Buffer Size: 0, Element: 9
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_142, Buffer: 0, Buffer Size: 0, Element: 10
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_142, Buffer: 0, Buffer Size: 0, Element: 11
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_142, Buffer: 0, Buffer Size: 0, Element: 12
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_142' invalid (670 verts, 0 indices).
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_142.BodySetup_0 when we are unable to.
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 3
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 4
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 5
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 6
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 7
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 8
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 9
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 10
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 11
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 12
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 13
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 14
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 15
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 16
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 17
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 18
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 19
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 20
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 21
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 22
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 23
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 24
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 25
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 26
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 27
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 28
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 29
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 30
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 31
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 32
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 33
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 34
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 35
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 36
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 37
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 38
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 39
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 40
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 41
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 42
+[2020.12.20-03.48.48:207][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 43
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 44
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 45
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 46
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 47
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 48
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 49
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 50
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 51
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 52
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 53
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 54
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 55
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 56
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 57
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 58
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 59
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 60
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 61
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 62
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 63
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 64
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 65
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 66
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 67
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 68
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 69
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 70
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143, Buffer: 0, Buffer Size: 0, Element: 71
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143' invalid (670 verts, 0 indices).
+[2020.12.20-03.48.48:208][726]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_143.BodySetup_0 when we are unable to.
+[2020.12.20-03.48.48:209][726]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2020.12.20-03.48.52:718][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.48.58:486][870]Cmd: POLY TEXSCALE  UU=1.250000 VV=1.250000
+[2020.12.20-03.49.05:551][693]Cmd: POLY TEXSCALE  UU=1.111111 VV=1.111111
+[2020.12.20-03.49.10:482][266]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2020.12.20-03.49.13:372][596]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.12.20-03.49.15:502][842]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.18:984][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.49.19:059][241]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.19:212][259]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.19:386][279]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.19:540][297]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.19:726][319]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.19:896][339]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.20:850][452]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.21:021][472]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.21:167][489]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.21:338][509]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.21:500][528]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.21:662][547]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.21:826][566]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.21:989][585]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.22:143][603]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.22:298][621]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.22:454][639]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.22:631][660]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.22:803][680]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.22:983][701]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.23:145][720]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.23:344][743]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.23:519][763]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.23:715][786]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.23:895][807]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.24:067][827]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.24:221][845]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.24:400][866]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.24:559][884]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.24:723][903]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.24:885][922]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.25:055][942]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.25:228][961]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.25:393][980]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.25:552][998]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.25:725][ 18]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.25:915][ 40]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.12.20-03.49.28:897][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.49.29:310][412]Cmd: POLY TEXPAN U=-0.000000 V=-1.000000
+[2020.12.20-03.49.39:095][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.49.39:187][521]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2020.12.20-03.49.42:878][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.49.42:929][942]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.20-03.49.42:947][942]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.20-03.49.42:947][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.20-03.49.42:960][942]PIE: New page: PIE session: FirstPersonExampleMap (20 Dec 2020 03:49:42)
+[2020.12.20-03.49.42:960][942]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.20-03.49.42:980][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019888s)
+[2020.12.20-03.49.42:981][942]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.20-03.49.42:981][942]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2020.12.20-03.49.42:982][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.021312s)
+[2020.12.20-03.49.43:018][942]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.12.20-03.49.43:026][942]LogInit: FAudioDevice initialized.
+[2020.12.20-03.49.43:068][942]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.12.20-03.49.43:072][942]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.12.20-03.49.43
+[2020.12.20-03.49.43:072][942]LogWorld: Bringing up level for play took: 0.002311
+[2020.12.20-03.49.43:089][942]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2020.12.20-03.49.43:090][942]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.843
+[2020.12.20-03.49.43:095][942]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.20-03.50.05:045][462]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.20-03.50.05:046][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.20-03.50.05:080][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.20-03.50.05:080][462]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.20-03.50.05:100][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.20-03.50.05:145][464]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.12.20-03.50.10:180][ 16]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.12.20-03.50.42:541][996]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.20-03.50.43:459][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.50.49:115][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.51.03:903][409]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.51.04:635][494]MapCheck: New page: Map Check
+[2020.12.20-03.51.04:679][494]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.51.04:684][494]Cmd: MAP REBUILD ALLVISIBLE
+[2020.12.20-03.51.04:688][494]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.12.20-03.51.04:715][494]LogEditorServer: Cleared 9 NULL BSP materials after rebuild.
+[2020.12.20-03.51.04:715][494]LightingResults: New page: Lighting Build - 20 Dec 2020 03:51:04
+[2020.12.20-03.51.05:111][494]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.20-03.51.05:364][494]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.20-03.51.05:380][494]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.20-03.51.06:397][494]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.20-03.51.06:397][494]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17764
+[2020.12.20-03.51.08:815][494]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.20-03.51.08:815][494]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.20-03.51.08:815][494]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.20-03.51.08:815][494]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.20-03.51.08:815][494]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.20-03.51.09:094][494]LogEditorBuildUtils: Build time 0:04
+[2020.12.20-03.51.09:103][494]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.12.20-03.51.09:112][494]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.12.20-03.51.09:207][494]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.12.20-03.51.09:207][494]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.12.20-03.51.09:246][495]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.12.20-03.51.09:254][495]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.12.20-03.51.09:254][495]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.12.20-03.51.09:269][495]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.12.20-03.51.09:282][496]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_FloorTest, compiling. 
+[2020.12.20-03.51.09:291][496]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_FloorTest, compiling. 
+[2020.12.20-03.51.09:321][497]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood, compiling. 
+[2020.12.20-03.51.09:329][497]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood, compiling. 
+[2020.12.20-03.51.11:547][499]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.12.20-03.51.28:399][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.51.31:763][993]LogSavePackage: Moving '../../../../Thomas/Unreal Projects/MyProject4 4.20/Saved/FirstPersonExampleMap_Auto18597C5F64B35884D3FC93DBFDFC3F389.tmp' to '../../../../Thomas/Unreal Projects/MyProject4 4.20/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.12.20-03.51.31:773][993]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.246
+[2020.12.20-03.51.31:773][993]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.246
+[2020.12.20-03.51.31:775][993]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Materials/M_FloorTest] ([1] browsable assets)...
+[2020.12.20-03.51.31:775][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Materials/M_FloorTest]
+[2020.12.20-03.51.31:812][993]LogSavePackage: Moving '../../../../Thomas/Unreal Projects/MyProject4 4.20/Saved/M_FloorTest_Auto128744EE0452EA47AACC1DFBEB7D52E02.tmp' to '../../../../Thomas/Unreal Projects/MyProject4 4.20/Saved/Autosaves/Game/FirstPerson/Materials/M_FloorTest_Auto1.uasset'
+[2020.12.20-03.51.31:814][993]LogFileHelpers: Auto-saving content packages took 0.040
+[2020.12.20-03.51.33:473][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.51.33:527][136]LogSlate: Window 'M_FloorTest*' being destroyed
+[2020.12.20-03.51.33:533][136]LogSlate: Window 'M_FloorTest*' being destroyed
+[2020.12.20-03.51.56:139][526]Job is a success!
+[2020.12.20-03.51.56:614][527]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2020.12.20-03.51.56:614][527]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.20-03.51.56:614][527]LogVolumetricLightmapImport:      BrickData 355x5x5 = 0.3Mb
+[2020.12.20-03.51.56:614][527]LogVolumetricLightmapImport:      Bricks at Level
+[2020.12.20-03.51.56:614][527]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2020.12.20-03.51.56:614][527]LogVolumetricLightmapImport:          1: 5.6% covering 6.3% of volume
+[2020.12.20-03.51.56:614][527]LogVolumetricLightmapImport:          2: 93.0% covering 1.6% of volume
+[2020.12.20-03.51.59:970][527]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2020.12.20-03.51.59:970][527]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2020.12.20-03.51.59:970][527]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2020.12.20-03.51.59:970][527]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2020.12.20-03.51.59:970][527]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2020.12.20-03.51.59:970][527]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2020.12.20-03.51.59:970][527]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2020.12.20-03.51.59:970][527]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2020.12.20-03.51.59:970][527]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2020.12.20-03.51.59:970][527]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2020.12.20-03.51.59:970][527]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2020.12.20-03.51.59:970][527]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2020.12.20-03.51.59:970][527]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 512X256)
+[2020.12.20-03.51.59:970][527]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2020.12.20-03.51.59:971][527]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 64X32)
+[2020.12.20-03.51.59:971][527]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2020.12.20-03.51.59:971][527]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2020.12.20-03.51.59:971][527]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2020.12.20-03.52.00:449][527]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2020.12.20-03.52.00:449][527]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2020.12.20-03.52.00:449][527]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2020.12.20-03.52.00:449][527]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2020.12.20-03.52.00:449][527]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2020.12.20-03.52.00:449][527]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2020.12.20-03.52.00:449][527]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 256X256)
+[2020.12.20-03.52.00:571][527]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2020.12.20-03.52.00:774][527]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2020.12.20-03.52.00:774][527]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X1024)
+[2020.12.20-03.52.00:815][527]Lightmass on THOMAS-PC: 48.4 sec total, 158 ms importing, 25 ms setup, 6.80 sec photons, 41.4 sec processing, 0 ms extra exporting [84/84 mappings]. Threads: 4:50 min total, 3:05 min processing.
+[2020.12.20-03.52.00:840][527]LogMaterial: Warning: Material /Game/FirstPerson/Materials/M_Base.M_Base needed to have new flag set bUsedWithStaticLighting !
+[2020.12.20-03.52.00:865][527]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2020.12.20-03.52.00:931][527]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.12.20-03.52.00:931][527]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.12.20-03.52.00:931][527]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.12.20-03.52.00:931][527]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.12.20-03.52.00:953][527]LogStaticLightingSystem: Illumination: 55.8 sec (2.94 sec encoding lightmaps, 800 ms encoding shadowmaps)
+[2020.12.20-03.52.00:953][527]LogStaticLightingSystem: Lightmap texture memory:  43.3 MB (42.7 MB streaming, 0.7 MB non-streaming), 12 textures
+[2020.12.20-03.52.00:953][527]LogStaticLightingSystem: Shadowmap texture memory: 23.0 MB (22.7 MB streaming, 0.3 MB non-streaming), 10 textures
+[2020.12.20-03.52.01:891][527]DumpUnbuiltLightIteractions
+[2020.12.20-03.52.01:891][527]Lights with unbuilt interactions: 0
+[2020.12.20-03.52.01:891][527]
+[2020.12.20-03.52.01:891][527]Primitives with unbuilt interactions: 0
+[2020.12.20-03.52.04:887][528]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.20-03.52.04:887][528]MapCheck: New page: FirstPersonExampleMap - 20 Dec 2020 03:52:04
+[2020.12.20-03.52.04:915][528]MapCheck: Warning: FirstPersonCharacter_C_1 FirstPersonCharacter_C_1 : No components found to joint.
+[2020.12.20-03.52.04:986][528]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 100.166ms to complete.
+[2020.12.20-03.52.12:586][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.52.16:148][958]LogSlate: Window 'Message Log' being destroyed
+[2020.12.20-03.52.16:153][958]LogSlate: Window 'Message Log' being destroyed
+[2020.12.20-03.52.37:298][311]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.12.20-03.52.46:633][347]Cmd: EDIT COPY
+[2020.12.20-03.52.46:870][361]Cmd: EDIT PASTE
+[2020.12.20-03.53.04:130][259]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.53.10:920][ 25]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.20-03.53.18:793][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.53.28:453][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.53.47:225][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.53.52:854][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.54.08:564][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.54.23:439][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.54.36:429][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.54.51:125][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.54.54:730][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.54.56:128][184]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.12.20-03.54.56:663][245]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.12.20-03.55.00:046][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.55.16:588][488]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.12.20-03.55.22:417][152]Cmd: EDIT COPY
+[2020.12.20-03.55.22:687][171]Cmd: EDIT PASTE
+[2020.12.20-03.55.37:581][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.55.44:320][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.55.47:677][955]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.20-03.55.58:350][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.56.04:324][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.56.17:649][188]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.56.22:692][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.56.22:783][763]MapCheck: New page: Map Check
+[2020.12.20-03.56.22:798][763]Cmd: MAP REBUILD ALLVISIBLE
+[2020.12.20-03.56.22:798][763]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.12.20-03.56.22:884][763]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy AntiAliasedTextMaterialTranslucent, compiling. 
+[2020.12.20-03.56.22:909][763]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2020.12.20-03.56.22:915][763]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.12.20-03.56.22:915][763]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2020.12.20-03.56.22:920][763]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.12.20-03.56.22:920][763]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.12.20-03.56.22:920][763]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2020.12.20-03.56.22:928][763]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2020.12.20-03.56.22:935][763]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Material__15, compiling. 
+[2020.12.20-03.56.22:941][763]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood, compiling. 
+[2020.12.20-03.56.22:951][763]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.12.20-03.56.22:951][763]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.12.20-03.56.22:960][763]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallTest, compiling. 
+[2020.12.20-03.56.22:971][763]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2020.12.20-03.56.22:985][763]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2020.12.20-03.56.22:997][763]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2020.12.20-03.56.24:028][763]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.12.20-03.56.24:028][763]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.12.20-03.56.24:028][763]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.12.20-03.56.24:028][763]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.12.20-03.56.24:028][763]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.12.20-03.56.24:028][763]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.12.20-03.56.24:028][763]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.12.20-03.56.24:028][763]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.12.20-03.56.24:028][763]TextureStreamingBuild: Display: Compiling optional shaders took 1.147 seconds.
+[2020.12.20-03.56.24:077][763]LogLevel: Display: Export Material TexCoord Scales took 0.049 seconds.
+[2020.12.20-03.56.24:109][763]TextureStreamingBuild: Display: Build Texture Streaming took 0.020 seconds.
+[2020.12.20-03.56.24:126][763]LightingResults: New page: Lighting Build - 20 Dec 2020 03:56:24
+[2020.12.20-03.56.24:133][763]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.20-03.56.24:135][763]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.20-03.56.24:135][763]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.20-03.56.24:136][763]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.20-03.56.24:136][763]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17764
+[2020.12.20-03.56.28:710][763]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.20-03.56.28:710][763]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.20-03.56.28:710][763]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.20-03.56.28:710][763]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.20-03.56.28:710][763]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.20-03.56.28:824][763]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.12.20-03.56.28:825][763]MapCheck: New page: FirstPersonExampleMap - 20 Dec 2020 03:56:28
+[2020.12.20-03.56.28:825][763]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.12.20-03.56.28:826][763]MapCheck: Warning: FirstPersonCharacter_C_1 FirstPersonCharacter_C_1 : No components found to joint.
+[2020.12.20-03.56.28:899][763]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 75.004ms to complete.
+[2020.12.20-03.56.28:922][763]LogEditorBuildUtils: Build time 0:06
+[2020.12.20-03.56.28:934][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.56.29:113][764]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_FloorTest, compiling. 
+[2020.12.20-03.56.29:118][764]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_FloorTest, compiling. 
+[2020.12.20-03.56.29:133][764]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.12.20-03.56.29:133][764]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.12.20-03.57.21:546][270]Job is a success!
+[2020.12.20-03.57.21:615][271]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2020.12.20-03.57.21:615][271]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.20-03.57.21:615][271]LogVolumetricLightmapImport:      BrickData 365x5x5 = 0.4Mb
+[2020.12.20-03.57.21:615][271]LogVolumetricLightmapImport:      Bricks at Level
+[2020.12.20-03.57.21:615][271]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2020.12.20-03.57.21:615][271]LogVolumetricLightmapImport:          1: 5.5% covering 6.3% of volume
+[2020.12.20-03.57.21:615][271]LogVolumetricLightmapImport:          2: 93.2% covering 1.7% of volume
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 512X256)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 64X32)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 64X64)
+[2020.12.20-03.57.24:859][271]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 64X64)
+[2020.12.20-03.57.25:264][271]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2020.12.20-03.57.25:264][271]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X1024)
+[2020.12.20-03.57.25:264][271]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 1024X1024)
+[2020.12.20-03.57.25:264][271]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2020.12.20-03.57.25:264][271]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 32X32)
+[2020.12.20-03.57.25:264][271]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 256X256)
+[2020.12.20-03.57.25:264][271]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X1024)
+[2020.12.20-03.57.25:264][271]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 1024X1024)
+[2020.12.20-03.57.25:463][271]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 1024X1024)
+[2020.12.20-03.57.25:487][271]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X1024)
+[2020.12.20-03.57.25:521][271]Lightmass on THOMAS-PC: 55.3 sec total, 163 ms importing, 19 ms setup, 8.48 sec photons, 46.6 sec processing, 0 ms extra exporting [84/84 mappings]. Threads: 5:26 min total, 3:36 min processing.
+[2020.12.20-03.57.25:532][271]LogStaticLightingSystem: Illumination: 1:01 min (2.90 sec encoding lightmaps, 625 ms encoding shadowmaps)
+[2020.12.20-03.57.25:533][271]LogStaticLightingSystem: Lightmap texture memory:  43.3 MB (42.7 MB streaming, 0.7 MB non-streaming), 12 textures
+[2020.12.20-03.57.25:533][271]LogStaticLightingSystem: Shadowmap texture memory: 23.0 MB (22.7 MB streaming, 0.3 MB non-streaming), 10 textures
+[2020.12.20-03.57.25:757][271]DumpUnbuiltLightIteractions
+[2020.12.20-03.57.25:757][271]Lights with unbuilt interactions: 0
+[2020.12.20-03.57.25:757][271]
+[2020.12.20-03.57.25:757][271]Primitives with unbuilt interactions: 0
+[2020.12.20-03.57.25:765][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.20-03.57.25:822][272]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.20-03.57.25:822][272]MapCheck: New page: FirstPersonExampleMap - 20 Dec 2020 03:57:25
+[2020.12.20-03.57.25:823][272]MapCheck: Warning: FirstPersonCharacter_C_1 FirstPersonCharacter_C_1 : No components found to joint.
+[2020.12.20-03.57.25:893][272]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 70.328ms to complete.
+[2020.12.20-03.57.30:915][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.57.30:984][870]LogSlate: Window 'Message Log' being destroyed
+[2020.12.20-03.57.30:989][870]LogSlate: Window 'Message Log' being destroyed
+[2020.12.20-03.57.44:645][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.57.44:708][409]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.20-03.57.44:723][409]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.20-03.57.44:723][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.20-03.57.44:723][409]PIE: New page: PIE session: FirstPersonExampleMap (20 Dec 2020 03:57:44)
+[2020.12.20-03.57.44:724][409]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.20-03.57.44:738][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014245s)
+[2020.12.20-03.57.44:739][409]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.20-03.57.44:739][409]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2020.12.20-03.57.44:739][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015569s)
+[2020.12.20-03.57.44:772][409]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.12.20-03.57.44:779][409]LogInit: FAudioDevice initialized.
+[2020.12.20-03.57.44:811][409]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.12.20-03.57.44:814][409]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.12.20-03.57.44
+[2020.12.20-03.57.44:814][409]LogWorld: Bringing up level for play took: 0.002036
+[2020.12.20-03.57.44:827][409]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.894
+[2020.12.20-03.57.44:828][409]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.20-03.59.13:472][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.20-03.59.13:473][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.20-03.59.13:504][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.20-03.59.13:505][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.20-03.59.13:525][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.20-03.59.13:574][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.12.20-03.59.16:497][347]LogEditorViewport: Clicking on Actor (LMB): BarrelObject_C (BarrelObject3)
+[2020.12.20-03.59.37:625][616]LogEditorViewport: Clicking on Actor (LMB): BarrelObject_C (BarrelObject)
+[2020.12.20-03.59.57:027][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-03.59.57:084][751]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.20-03.59.57:107][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.20-03.59.57:107][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.20-03.59.57:108][751]PIE: New page: PIE session: FirstPersonExampleMap (20 Dec 2020 03:59:57)
+[2020.12.20-03.59.57:108][751]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.20-03.59.57:134][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025954s)
+[2020.12.20-03.59.57:135][751]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.20-03.59.57:136][751]LogPlayLevel: PIE: World Init took: (0.001882s)
+[2020.12.20-03.59.57:136][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028237s)
+[2020.12.20-03.59.57:173][751]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.12.20-03.59.57:181][751]LogInit: FAudioDevice initialized.
+[2020.12.20-03.59.57:216][751]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.12.20-03.59.57:219][751]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.12.20-03.59.57
+[2020.12.20-03.59.57:219][751]LogWorld: Bringing up level for play took: 0.002749
+[2020.12.20-03.59.57:232][751]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.7
+[2020.12.20-03.59.57:232][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.20-04.00.15:741][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.20-04.00.15:741][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.20-04.00.15:776][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.20-04.00.15:776][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.20-04.00.15:796][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.20-04.00.15:845][964]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.12.20-04.00.19:828][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.20-04.00.20:098][449]LogRenderer: Reallocating scene render targets to support 1148x788 Format 10 NumSamples 1 (Frame:49616).
+[2020.12.20-04.00.20:148][450]LogRenderer: Reallocating scene render targets to support 1148x804 Format 10 NumSamples 1 (Frame:49618).
+[2020.12.20-04.00.20:197][451]LogRenderer: Reallocating scene render targets to support 1148x832 Format 10 NumSamples 1 (Frame:49620).
+[2020.12.20-04.00.20:247][452]LogRenderer: Reallocating scene render targets to support 1148x836 Format 10 NumSamples 1 (Frame:49622).
+[2020.12.20-04.00.21:505][598]LogRenderer: Reallocating scene render targets to support 1152x836 Format 10 NumSamples 1 (Frame:49625).
+[2020.12.20-04.00.21:552][599]LogRenderer: Reallocating scene render targets to support 1160x836 Format 10 NumSamples 1 (Frame:49627).
+[2020.12.20-04.00.21:611][600]LogRenderer: Reallocating scene render targets to support 1200x836 Format 10 NumSamples 1 (Frame:49629).
+[2020.12.20-04.00.21:661][601]LogRenderer: Reallocating scene render targets to support 1256x836 Format 10 NumSamples 1 (Frame:49631).
+[2020.12.20-04.00.21:717][602]LogRenderer: Reallocating scene render targets to support 1320x836 Format 10 NumSamples 1 (Frame:49633).
+[2020.12.20-04.00.21:767][603]LogRenderer: Reallocating scene render targets to support 1344x836 Format 10 NumSamples 1 (Frame:49635).
+[2020.12.20-04.00.21:825][604]LogRenderer: Reallocating scene render targets to support 1360x836 Format 10 NumSamples 1 (Frame:49637).
+[2020.12.20-04.00.21:903][605]LogRenderer: Reallocating scene render targets to support 1388x836 Format 10 NumSamples 1 (Frame:49639).
+[2020.12.20-04.00.21:953][606]LogRenderer: Reallocating scene render targets to support 1400x836 Format 10 NumSamples 1 (Frame:49641).
+[2020.12.20-04.00.22:012][607]LogRenderer: Reallocating scene render targets to support 1408x836 Format 10 NumSamples 1 (Frame:49643).
+[2020.12.20-04.00.22:089][608]LogRenderer: Reallocating scene render targets to support 1420x836 Format 10 NumSamples 1 (Frame:49645).
+[2020.12.20-04.00.22:147][609]LogRenderer: Reallocating scene render targets to support 1424x836 Format 10 NumSamples 1 (Frame:49647).
+[2020.12.20-04.00.22:198][610]LogRenderer: Reallocating scene render targets to support 1428x836 Format 10 NumSamples 1 (Frame:49649).
+[2020.12.20-04.00.22:373][622]LogRenderer: Reallocating scene render targets to support 1432x836 Format 10 NumSamples 1 (Frame:49653).
+[2020.12.20-04.00.22:423][623]LogRenderer: Reallocating scene render targets to support 1440x836 Format 10 NumSamples 1 (Frame:49655).
+[2020.12.20-04.00.22:472][624]LogRenderer: Reallocating scene render targets to support 1448x836 Format 10 NumSamples 1 (Frame:49657).
+[2020.12.20-04.00.22:522][625]LogRenderer: Reallocating scene render targets to support 1452x836 Format 10 NumSamples 1 (Frame:49659).
+[2020.12.20-04.00.25:402][950]LogRenderer: Reallocating scene render targets to support 1488x836 Format 10 NumSamples 1 (Frame:49668).
+[2020.12.20-04.00.25:467][951]LogRenderer: Reallocating scene render targets to support 1520x836 Format 10 NumSamples 1 (Frame:49670).
+[2020.12.20-04.00.25:527][952]LogRenderer: Reallocating scene render targets to support 1536x836 Format 10 NumSamples 1 (Frame:49672).
+[2020.12.20-04.00.25:583][953]LogRenderer: Reallocating scene render targets to support 1564x836 Format 10 NumSamples 1 (Frame:49674).
+[2020.12.20-04.00.25:642][954]LogRenderer: Reallocating scene render targets to support 1604x836 Format 10 NumSamples 1 (Frame:49676).
+[2020.12.20-04.00.25:712][955]LogRenderer: Reallocating scene render targets to support 1652x836 Format 10 NumSamples 1 (Frame:49678).
+[2020.12.20-04.00.25:769][956]LogRenderer: Reallocating scene render targets to support 1660x836 Format 10 NumSamples 1 (Frame:49680).
+[2020.12.20-04.00.25:828][957]LogRenderer: Reallocating scene render targets to support 1668x836 Format 10 NumSamples 1 (Frame:49682).
+[2020.12.20-04.00.25:878][958]LogRenderer: Reallocating scene render targets to support 1672x836 Format 10 NumSamples 1 (Frame:49684).
+[2020.12.20-04.00.25:995][962]LogRenderer: Reallocating scene render targets to support 1676x836 Format 10 NumSamples 1 (Frame:49688).
+[2020.12.20-04.00.26:046][963]LogRenderer: Reallocating scene render targets to support 1680x836 Format 10 NumSamples 1 (Frame:49690).
+[2020.12.20-04.00.26:095][964]LogRenderer: Reallocating scene render targets to support 1684x836 Format 10 NumSamples 1 (Frame:49692).
+[2020.12.20-04.00.26:144][965]LogRenderer: Reallocating scene render targets to support 1700x836 Format 10 NumSamples 1 (Frame:49694).
+[2020.12.20-04.00.26:196][966]LogRenderer: Reallocating scene render targets to support 1704x836 Format 10 NumSamples 1 (Frame:49696).
+[2020.12.20-04.00.26:350][976]LogRenderer: Reallocating scene render targets to support 1708x836 Format 10 NumSamples 1 (Frame:49700).
+[2020.12.20-04.00.26:401][977]LogRenderer: Reallocating scene render targets to support 1724x836 Format 10 NumSamples 1 (Frame:49702).
+[2020.12.20-04.00.26:612][993]LogRenderer: Reallocating scene render targets to support 1728x836 Format 10 NumSamples 1 (Frame:49706).
+[2020.12.20-04.00.26:822][ 10]LogRenderer: Reallocating scene render targets to support 1732x836 Format 10 NumSamples 1 (Frame:49710).
+[2020.12.20-04.00.27:002][ 27]LogRenderer: Reallocating scene render targets to support 1736x836 Format 10 NumSamples 1 (Frame:49712).
+[2020.12.20-04.00.27:186][ 37]LogRenderer: Reallocating scene render targets to support 1740x836 Format 10 NumSamples 1 (Frame:49718).
+[2020.12.20-04.00.40:184][158]LogSlate: Window 'Save Content' being destroyed
+[2020.12.20-04.00.40:225][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Materials/M_Base" FILE="../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/FirstPerson/Materials/M_Base.uasset" SILENT=true
+[2020.12.20-04.00.40:254][158]LogSavePackage: Moving '../../../../Thomas/Unreal Projects/MyProject4 4.20/Saved/M_Base74B1ED6745950C0DC74F0F8D9F1CDBA1.tmp' to '../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/FirstPerson/Materials/M_Base.uasset'
+[2020.12.20-04.00.40:259][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Materials/M_FloorTest" FILE="../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/FirstPerson/Materials/M_FloorTest.uasset" SILENT=true
+[2020.12.20-04.00.40:289][158]LogSavePackage: Moving '../../../../Thomas/Unreal Projects/MyProject4 4.20/Saved/M_FloorTest15D652F645064C19F9D04BAF4019D977.tmp' to '../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/FirstPerson/Materials/M_FloorTest.uasset'
+[2020.12.20-04.00.40:310][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Materials/M_WallTest" FILE="../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/FirstPerson/Materials/M_WallTest.uasset" SILENT=true
+[2020.12.20-04.00.40:338][158]LogSavePackage: Moving '../../../../Thomas/Unreal Projects/MyProject4 4.20/Saved/M_WallTestB402BE934BEF54177A005CBEF7A5A096.tmp' to '../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/FirstPerson/Materials/M_WallTest.uasset'
+[2020.12.20-04.00.40:578][158]LogSavePackage: Moving '../../../../Thomas/Unreal Projects/MyProject4 4.20/Saved/FirstPersonExampleMapC53468D2405FC377C8F73DB1FE9A236E.tmp' to '../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.12.20-04.00.40:608][158]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.264
+[2020.12.20-04.00.41:641][158]LogSavePackage: Moving '../../../../Thomas/Unreal Projects/MyProject4 4.20/Saved/FirstPersonExampleMap_BuiltData282871FA452AA4C785F1809E7EC08394.tmp' to '../../../../Thomas/Unreal Projects/MyProject4 4.20/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.12.20-04.05.00:398][279]LogSlate: Window 'MyProject4 - Unreal Editor' being destroyed
+[2020.12.20-04.05.00:399][279]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.20-04.05.00:628][280]Cmd: QUIT_EDITOR
+[2020.12.20-04.05.01:554][280]LogExit: Preparing to exit.
+[2020.12.20-04.05.02:411][280]LogExit: Editor shut down
+[2020.12.20-04.05.02:411][280]LogExit: Transaction tracking system shut down
+[2020.12.20-04.05.02:611][280]LogExit: Object subsystem successfully closed.
+[2020.12.20-04.05.02:640][280]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.12.20-04.05.02:643][280]LogD3D11RHI: Shutdown
+[2020.12.20-04.05.02:644][280]LogD3D11RHI: CleanupD3DDevice
+[2020.12.20-04.05.02:646][280]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.12.20-04.05.02:656][280]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (618)
+[2020.12.20-04.05.02:656][280]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2020.12.20-04.05.02:656][280]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2020.12.20-04.05.02:656][280]LogModuleManager: Shutting down and abandoning module TextureEditor (612)
+[2020.12.20-04.05.02:656][280]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2020.12.20-04.05.02:657][280]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2020.12.20-04.05.02:657][280]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2020.12.20-04.05.02:657][280]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2020.12.20-04.05.02:657][280]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2020.12.20-04.05.02:657][280]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2020.12.20-04.05.02:657][280]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2020.12.20-04.05.02:657][280]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2020.12.20-04.05.02:657][280]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2020.12.20-04.05.02:657][280]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2020.12.20-04.05.02:658][280]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2020.12.20-04.05.02:659][280]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2020.12.20-04.05.03:452][280]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2020.12.20-04.05.03:453][280]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2020.12.20-04.05.03:453][280]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2020.12.20-04.05.03:519][280]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2020.12.20-04.05.03:519][280]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2020.12.20-04.05.03:519][280]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2020.12.20-04.05.03:519][280]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2020.12.20-04.05.03:519][280]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2020.12.20-04.05.03:519][280]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2020.12.20-04.05.03:519][280]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2020.12.20-04.05.03:519][280]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2020.12.20-04.05.03:519][280]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2020.12.20-04.05.03:519][280]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2020.12.20-04.05.03:520][280]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2020.12.20-04.05.03:521][280]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2020.12.20-04.05.03:521][280]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2020.12.20-04.05.03:521][280]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2020.12.20-04.05.03:521][280]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2020.12.20-04.05.03:521][280]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.12.20-04.05.03:537][280]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.12.20-04.05.03:537][280]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.12.20-04.05.03:537][280]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.12.20-04.05.03:537][280]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.12.20-04.05.03:537][280]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.12.20-04.05.03:537][280]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.12.20-04.05.03:537][280]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.12.20-04.05.03:538][280]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.12.20-04.05.03:538][280]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.12.20-04.05.03:538][280]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.12.20-04.05.03:538][280]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.12.20-04.05.03:538][280]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.12.20-04.05.03:538][280]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.12.20-04.05.03:538][280]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.12.20-04.05.03:538][280]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2020.12.20-04.05.03:538][280]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2020.12.20-04.05.03:538][280]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2020.12.20-04.05.03:538][280]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.12.20-04.05.03:542][280]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.12.20-04.05.03:543][280]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.12.20-04.05.03:643][280]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.12.20-04.05.03:744][280]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.12.20-04.05.03:744][280]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.12.20-04.05.03:744][280]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.12.20-04.05.03:744][280]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.12.20-04.05.03:744][280]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.12.20-04.05.03:744][280]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.12.20-04.05.03:744][280]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.12.20-04.05.03:744][280]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.12.20-04.05.03:744][280]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.12.20-04.05.03:744][280]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.12.20-04.05.03:744][280]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.12.20-04.05.03:745][280]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.12.20-04.05.03:746][280]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.12.20-04.05.03:746][280]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.12.20-04.05.03:746][280]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.12.20-04.05.03:746][280]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.12.20-04.05.03:746][280]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.12.20-04.05.03:746][280]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2020.12.20-04.05.03:748][280]LogModuleManager: Shutting down and abandoning module Media (243)
+[2020.12.20-04.05.03:754][280]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2020.12.20-04.05.03:754][280]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2020.12.20-04.05.03:754][280]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2020.12.20-04.05.03:754][280]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2020.12.20-04.05.03:754][280]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2020.12.20-04.05.03:754][280]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2020.12.20-04.05.03:754][280]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2020.12.20-04.05.03:754][280]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2020.12.20-04.05.03:754][280]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2020.12.20-04.05.03:754][280]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2020.12.20-04.05.03:754][280]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2020.12.20-04.05.03:754][280]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2020.12.20-04.05.03:755][280]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2020.12.20-04.05.03:755][280]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2020.12.20-04.05.03:755][280]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2020.12.20-04.05.03:755][280]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2020.12.20-04.05.03:755][280]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2020.12.20-04.05.03:755][280]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2020.12.20-04.05.03:755][280]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2020.12.20-04.05.03:755][280]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module Core (188)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2020.12.20-04.05.03:756][280]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2020.12.20-04.05.03:757][280]LogDerivedDataCache: Shutdown
+[2020.12.20-04.05.03:757][280]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2020.12.20-04.05.03:757][280]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2020.12.20-04.05.03:757][280]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2020.12.20-04.05.03:757][280]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2020.12.20-04.05.03:757][280]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2020.12.20-04.05.03:757][280]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2020.12.20-04.05.03:757][280]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.12.20-04.05.03:758][280]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.12.20-04.05.03:782][280]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2020.12.20-04.05.03:782][280]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2020.12.20-04.05.03:787][280]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2020.12.20-04.05.03:787][280]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2020.12.20-04.05.03:788][280]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2020.12.20-04.05.03:789][280]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2020.12.20-04.05.03:789][280]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2020.12.20-04.05.03:820][280]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2020.12.20-04.05.03:820][280]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.12.20-04.05.03:820][280]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58674FA4-4DD0-7D2B-AF01-E09DCE50D2E8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=ad67612f4f92adcb9b570aa960e2f5b6%7Cfb7217977e7340c2ad6382fc44e4da6d%7C04e37e46-ad1d-46a1-9869-2e1877e39145&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.12.20-04.05.03:851][280]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2020.12.20-04.05.03:852][280]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2020.12.20-04.05.03:852][280]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2020.12.20-04.05.03:852][280]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2020.12.20-04.05.03:852][280]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2020.12.20-04.05.03:852][280]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2020.12.20-04.05.03:852][280]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2020.12.20-04.05.03:852][280]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2020.12.20-04.05.03:852][280]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2020.12.20-04.05.03:852][280]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2020.12.20-04.05.03:852][280]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.12.20-04.05.03:852][280]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2020.12.20-04.05.03:852][280]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.12.20-04.05.03:852][280]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.12.20-04.05.03:853][280]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.12.20-04.05.03:861][280]LogExit: Exiting.
+[2020.12.20-04.05.03:885][280]Log file closed, 12/20/20 04:05:03
